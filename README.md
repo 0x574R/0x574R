@@ -8,7 +8,7 @@
 
 ## 📚 Artículos Destacados
 
-### [Process Injection via Ptrace (Pure ASM)](https://0x574r.github.io/research/malware-dev/ptrace-injection/)
+### [Process Injection via Ptrace (ASM-only)](https://0x574r.github.io/research/malware-dev/ptrace-injection/)
 inyección de código en procesos Linux usando ptrace, implementado completamente en ensamblador x86-64. Sin dependencias.
 
 ### [Reverse TCP Shell (ASM-only)](https://0x574r.github.io/research/malware-dev/reverse-shell/)
