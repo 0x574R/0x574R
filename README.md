@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🔴 RAZOR - Offensive Security Blog 🔴
+## 🔴 RAZOR - Offensive Security Blog 🔴
 
 ### 📝 [**0x574r.github.io**](https://0x574r.github.io/)
 
