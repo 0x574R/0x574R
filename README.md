@@ -9,7 +9,9 @@
 
 Inyección de código en procesos Linux usando ptrace, implementado completamente en ensamblador x86-64. Sin dependencias.
 
+### [Fileless Loader (ASM-only)](https://0x574r.github.io/research/malware-dev/fileless-loader/)
 
+Ejecución de un binario sin la necesidad de crear un fichero en el sistema de archivos. Sin dependencias.
 
 ### [Reverse TCP Shell (ASM-only)](https://0x574r.github.io/research/malware-dev/reverse-shell/)
 
